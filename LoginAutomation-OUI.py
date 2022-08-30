@@ -1,7 +1,7 @@
 #================================================================================
 #   ||          ------------------------------------------------            ||
 #   ||         Login automation using Selenium WebDriver (chrome)           ||
-#   ||         Adapted to the Open University of Israel (OUOI) website		||
+#   ||         Adapted to the Open University of Israel (OUI) website		||
 #   ||         @requirements: chromedriver, selenium, python                ||
 #================================================================================
 
